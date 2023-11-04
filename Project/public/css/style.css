@@ -1,0 +1,12 @@
+body {
+    height: 95vh;
+    background: #41295a;
+    background: linear-gradient(to bottom, #2F0743, #41295a);
+}
+
+.dashboard {
+    height: 100vh;
+    background: #2980B9;
+    background: linear-gradient(to top, #FFFFFF, #6DD5FA, #2980B9);
+
+}
